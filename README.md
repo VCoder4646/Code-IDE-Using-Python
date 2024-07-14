@@ -2,10 +2,6 @@
 Creating a Python IDE for efficient coding with features like syntax highlighting, code completion, error detection, and an integrated debugger. Built using Python and Tkinter, it aims to streamline development, support project management, and enhance productivity for Python programmers, fostering innovation in Python projects.
 
 
-Creating an awesome `README.md` file is essential for your project. It should provide clear, concise information about your project, how to use it, and any other relevant details. Here's a template you can use as a starting point, tailored to your IDE project:
-
-
-
 ![IDE Screenshot](screenshot.png)
 
 ## Features
