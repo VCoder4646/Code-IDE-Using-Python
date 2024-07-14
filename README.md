@@ -18,8 +18,8 @@ To run this IDE on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/interactive-ide.git
-   cd interactive-ide
+   git clone https://github.com/Vasanth0475/Code-IDE-Using-Python.git
+   cd Code-IDE-Using-Python
    ```
 
 2. Install dependencies:
