@@ -29,7 +29,7 @@ To run this IDE on your local machine, follow these steps:
 
 3. Run the application:
    ```bash
-   python compiler.py
+   python Code-IDE.py
    ```
 
 ## Usage
